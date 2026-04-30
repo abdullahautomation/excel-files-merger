@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+merged_output.xlsx
+excel_files/

@@ -1,5 +1,8 @@
 # Excel Files Merger
 
+## Screenshot
+![GUI](screenshots/gui.png)
+
 A Python automation tool that merges multiple Excel files into one.
 
 ## Features

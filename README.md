@@ -12,7 +12,7 @@ A Python automation tool that merges multiple Excel files into one.
 - Professional formatting with openpyxl
 - Simple GUI with tkinter
 
-### How to Use
+## How to Use
 1. Add Excel files to `excel_files` folder
 2. Run `gui.py`
 3. Enter output file name
